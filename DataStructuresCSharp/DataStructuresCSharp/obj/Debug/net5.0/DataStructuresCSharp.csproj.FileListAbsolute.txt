@@ -1,0 +1,16 @@
+C:\Users\320112315\source\repos\DataStructure-AlgoCSharp\DataStructuresCSharp\DataStructuresCSharp\bin\Debug\net5.0\DataStructuresCSharp.exe
+C:\Users\320112315\source\repos\DataStructure-AlgoCSharp\DataStructuresCSharp\DataStructuresCSharp\bin\Debug\net5.0\DataStructuresCSharp.deps.json
+C:\Users\320112315\source\repos\DataStructure-AlgoCSharp\DataStructuresCSharp\DataStructuresCSharp\bin\Debug\net5.0\DataStructuresCSharp.runtimeconfig.json
+C:\Users\320112315\source\repos\DataStructure-AlgoCSharp\DataStructuresCSharp\DataStructuresCSharp\bin\Debug\net5.0\DataStructuresCSharp.runtimeconfig.dev.json
+C:\Users\320112315\source\repos\DataStructure-AlgoCSharp\DataStructuresCSharp\DataStructuresCSharp\bin\Debug\net5.0\DataStructuresCSharp.dll
+C:\Users\320112315\source\repos\DataStructure-AlgoCSharp\DataStructuresCSharp\DataStructuresCSharp\bin\Debug\net5.0\ref\DataStructuresCSharp.dll
+C:\Users\320112315\source\repos\DataStructure-AlgoCSharp\DataStructuresCSharp\DataStructuresCSharp\bin\Debug\net5.0\DataStructuresCSharp.pdb
+C:\Users\320112315\source\repos\DataStructure-AlgoCSharp\DataStructuresCSharp\DataStructuresCSharp\obj\Debug\net5.0\DataStructuresCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\320112315\source\repos\DataStructure-AlgoCSharp\DataStructuresCSharp\DataStructuresCSharp\obj\Debug\net5.0\DataStructuresCSharp.AssemblyInfoInputs.cache
+C:\Users\320112315\source\repos\DataStructure-AlgoCSharp\DataStructuresCSharp\DataStructuresCSharp\obj\Debug\net5.0\DataStructuresCSharp.AssemblyInfo.cs
+C:\Users\320112315\source\repos\DataStructure-AlgoCSharp\DataStructuresCSharp\DataStructuresCSharp\obj\Debug\net5.0\DataStructuresCSharp.csproj.CoreCompileInputs.cache
+C:\Users\320112315\source\repos\DataStructure-AlgoCSharp\DataStructuresCSharp\DataStructuresCSharp\obj\Debug\net5.0\DataStructuresCSharp.dll
+C:\Users\320112315\source\repos\DataStructure-AlgoCSharp\DataStructuresCSharp\DataStructuresCSharp\obj\Debug\net5.0\ref\DataStructuresCSharp.dll
+C:\Users\320112315\source\repos\DataStructure-AlgoCSharp\DataStructuresCSharp\DataStructuresCSharp\obj\Debug\net5.0\DataStructuresCSharp.pdb
+C:\Users\320112315\source\repos\DataStructure-AlgoCSharp\DataStructuresCSharp\DataStructuresCSharp\obj\Debug\net5.0\DataStructuresCSharp.genruntimeconfig.cache
+C:\Users\320112315\source\repos\DataStructure-AlgoCSharp\DataStructuresCSharp\DataStructuresCSharp\obj\Debug\net5.0\DataStructuresCSharp.csproj.AssemblyReference.cache
